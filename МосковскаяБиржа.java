@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Инструкция по сборке и запуску
+1-й параметр “а” – основание исходной системы счисления 
+2-й параметр “b” – основание целевой системы счисления
+3-й параметр “x” – число (например 111001 или 57 или 1l ....) 
  */
 package московская.биржа;
 
